@@ -2,7 +2,7 @@
 Engage in live conversations with historical personalities using the synergy of GPT-3 and Amazon Polly's neural voice technology.
 
 
-## Executive Summary
+## Summary
 
 * Full-stack React + Django REST API implementation.
 * Utilizes OpenAI’s GPT-3 with prompt-programming to replicate historical figures in real-time chats.
